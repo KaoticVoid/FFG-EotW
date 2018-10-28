@@ -454,6 +454,10 @@ input[type="radio"].sheet-radio-vert-5 + span::before {
     padding:5px;
 }
 
+.sheet-char-title-centered {
+    text-align: center;
+}
+
 .sheet-char-title h3 {
     color:#fff;
     font-size:24px;
